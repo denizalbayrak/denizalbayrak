@@ -4,6 +4,7 @@ Studying computer engineering skilled in communication, creative thinking, organ
 
 - 📫 You can reach me anytime deniz.al26@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizalbayrak&theme=tokyonight)
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
