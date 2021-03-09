@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Deniz.
-
-<!--
-**denizalbayrak/denizalbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Deniz.✨✨
 
 Studying computer engineering skilled in communication, creative thinking, organization planning and . Furthermore, some experiences with 3d design, social media management and face effect design. 
 
