@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deniz.✨✨
 
-Studying computer engineering skilled in communication, creative thinking, organization planning and . Furthermore, some experiences with 3d design, social media management and face effect design. 
+Studying computer engineering skilled in communication, creative thinking, organization planning. Furthermore, some experiences with 3d design, social media management and face effect design. 
 
 - 📫 You can reach me anytime deniz.al26@gmail.com
 - 🪂  https://www.linkedin.com/in/denizalbayrakk/
