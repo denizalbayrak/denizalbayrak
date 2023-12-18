@@ -3,9 +3,10 @@
 Computer engineer skilled in communication, creative thinking, organizational planning. Experienced in game development stages and Unity, ASP.NET and web page development. Also some experience with 3d design, social media management and effect design.
 
 - 📫 You can reach me anytime deniz.al26@gmail.com
+- 🌻 https://www.denizsworld.com/
 - 🪂  https://www.linkedin.com/in/denizalbayrakk/
 - 🎮 https://denizaxd.itch.io/
-- 🌻 https://denizaxd.tumblr.com/
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
