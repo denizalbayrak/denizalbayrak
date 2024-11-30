@@ -2,6 +2,7 @@
 
 I'm a passionate Computer Engineer with expertise in game development, VR projects, and frontend development. My skills include:
 
+
 Game Development: Proficient in Unity, with experience in all stages of development, including gameplay mechanics, UI/UX, animations, shaders, and dynamic visual effects.
 Web Development: Skilled in ASP.NET and modern web technologies for building intuitive and responsive web pages.
 VR Projects: Focused on creating immersive and engaging VR-AR experiences.
