@@ -1,6 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deniz.✨✨
 
-Computer engineer skilled in communication, creative thinking, organizational planning. Experienced in game development stages and Unity, ASP.NET and web page development. Also some experience with 3d design, social media management and effect design.
+I'm a passionate Computer Engineer with expertise in game development, VR projects, and frontend development. My skills include:
+
+Game Development: Proficient in Unity, with experience in all stages of development, including gameplay mechanics, UI/UX, animations, shaders, and dynamic visual effects.
+Web Development: Skilled in ASP.NET and modern web technologies for building intuitive and responsive web pages.
+VR Projects: Focused on creating immersive and engaging VR-AR experiences.
+Creative & Organizational Skills: Experienced in social media effect design and project planning.
+
+I'm always eager to collaborate on innovative projects and bring creative ideas to life! 🚀 Feel free to explore my work or reach out. Let's create something amazing together! 😊
 
 - 📫 You can reach me anytime deniz.al26@gmail.com
 - 🌻 https://www.denizsworld.com/
